@@ -4,8 +4,8 @@ Various solutions to [Project Euler](https://projecteuler.net/).
 
 |Language|Status|Count|
 |---|---|---|
-|Ada|Incomplete|432|
-|Ada|Complete|518|
+|Ada|Incomplete|429|
+|Ada|Complete|521|
 |Assembly|Incomplete|897|
 |Assembly|Complete|53|
 |C|Incomplete|906|
